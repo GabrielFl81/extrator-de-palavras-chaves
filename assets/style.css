@@ -16,8 +16,8 @@ body {
     justify-content: center;
     align-items: center;
     padding: 16px 21px 18px 21px;
-    /* background: url('img/background-desktop-lulu.webp'); */
-    background: var(--cor-gradiente-preto);
+    background: url('img/background-desktop-EP.webp');
+    /* background: var(--cor-gradiente-preto); */
     height: 100vh;
     flex-direction: column;
 }
